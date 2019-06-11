@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_361764_ipinfo.ipaddressinfo_user" name="x_361764_ipinfo.ipaddressinfo_user">f4d1da90db0e33007507863239961960</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 06:08:29</sys_created_on>
+        <sys_id>3cd1da90db0e33007507863239961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f4d1da90db0e33007507863239961960</sys_name>
+        <sys_package display_value="IPinfo" source="x_361764_ipinfo">72360590db4a330075078632399619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPinfo">72360590db4a330075078632399619c1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3cd1da90db0e33007507863239961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 06:08:29</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
